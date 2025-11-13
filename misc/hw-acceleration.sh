@@ -1,11 +1,11 @@
 #!/usr/bin/env bash
 
-# Copyright (c) 2021-2024 tteck
-# Author: tteck (tteckster)
+# Copyright (c) 2021-2024 rajveer01
+# Author: rajveer01 (rajveer01ster)
 # License: MIT
-# https://github.com/tteck/Proxmox/raw/main/LICENSE
+# https://github.com/rajveer01/Proxmox/raw/main/LICENSE
 # Execute within the Proxmox shell
-# bash -c "$(wget -qLO - https://github.com/tteck/Proxmox/raw/main/misc/hw-acceleration.sh)"
+# bash -c "$(wget -qLO - https://github.com/rajveer01/Proxmox/raw/main/misc/hw-acceleration.sh)"
 
 set -e
 function header_info {
